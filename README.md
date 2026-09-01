@@ -22,6 +22,8 @@ Unsloth Studio lets you run and train models locally.
 
 ## ⚡ Get started
 
+
+[![AI slop inside](https://sladge.net/badge.svg)](https://sladge.net) [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/KooshaPari/phenotype-unsloth-studio/total)](https://github.com/KooshaPari/phenotype-unsloth-studio/releases)
 #### macOS, Linux, WSL:
 ```bash
 curl -fsSL https://unsloth.ai/install.sh | sh
